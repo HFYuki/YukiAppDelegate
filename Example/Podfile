@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'YukiAppDelegate_Example' do
+  pod 'YukiAppDelegate', :path => '../'
+
+  target 'YukiAppDelegate_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
