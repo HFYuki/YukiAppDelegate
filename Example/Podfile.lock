@@ -1,0 +1,16 @@
+PODS:
+  - YukiAppDelegate (0.1.0)
+
+DEPENDENCIES:
+  - YukiAppDelegate (from `../`)
+
+EXTERNAL SOURCES:
+  YukiAppDelegate:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YukiAppDelegate: 503111d1107d60700b085781613b0659353fd6b6
+
+PODFILE CHECKSUM: 9737362c725ab736e25855c8fa791879f86a8fc1
+
+COCOAPODS: 1.10.1

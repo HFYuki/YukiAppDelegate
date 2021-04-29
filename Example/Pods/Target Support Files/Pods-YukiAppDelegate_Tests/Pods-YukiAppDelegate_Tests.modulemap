@@ -1,0 +1,6 @@
+framework module Pods_YukiAppDelegate_Tests {
+  umbrella header "Pods-YukiAppDelegate_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

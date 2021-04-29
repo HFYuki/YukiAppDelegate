@@ -1,0 +1,6 @@
+framework module Pods_YukiAppDelegate_Example {
+  umbrella header "Pods-YukiAppDelegate_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
